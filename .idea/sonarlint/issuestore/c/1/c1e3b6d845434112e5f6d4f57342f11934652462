@@ -1,0 +1,30 @@
+
+R	java:S125²"<This block of commented-out lines of code should be removed.(Äğå 
+R	java:S125¦"<This block of commented-out lines of code should be removed.(ë†÷–
+u
+java:S1450"ZRemove the "listBuilder" field and declare it as a local variable in the relevant methods.(Ï¡©ßşÿÿÿÿ
+W	java:S125°"<This block of commented-out lines of code should be removed.(éÆúÑùÿÿÿÿ
+R	java:S125¡"<This block of commented-out lines of code should be removed.(ë†÷–
+;
+java:S1659M"&Declare "gratidao" on a separate line.(Ë°„
+B
+java:S1481M"-Remove this unused "gratidao" local variable.(Ë°„
+k	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«­«Çşÿÿÿÿ
+6
+java:S1659M"!Declare "all" on a separate line.(Ë°„
+;
+java:S1659M"&Declare "inovador" on a separate line.(Ë°„
+Q	java:S125k"<This block of commented-out lines of code should be removed.(ë†÷–
+B
+java:S1481M"-Remove this unused "inovador" local variable.(Ë°„
+Q	java:S125|"<This block of commented-out lines of code should be removed.(Äğå 
+R	java:S125œ"<This block of commented-out lines of code should be removed.(ë†÷–
+Q	java:S125p"<This block of commented-out lines of code should be removed.(ë†÷–
+F
+java:S1481M"1Remove this unused "interessante" local variable.(Ë°„
+Q	java:S125f"<This block of commented-out lines of code should be removed.(ë†÷–
+a
+java:S1192V"FDefine a constant instead of duplicating this literal "range" 4 times.(•óÀ ÿÿÿÿÿ
+V	java:S125x"<This block of commented-out lines of code should be removed.(¸Î€½ıÿÿÿÿ
+W	java:S125®"<This block of commented-out lines of code should be removed.(¸Î€½ıÿÿÿÿ
+V	java:S125z"<This block of commented-out lines of code should be removed.(éÆúÑùÿÿÿÿ

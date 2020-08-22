@@ -1,0 +1,15 @@
+
+I
+java:S1172+"3Remove this unused method parameter "conhecimento".(ÒïŠ­
+s
+java:S1488h"^Immediately return this expression instead of assigning it to the temporary variable "result".(ÊÍ˜j
+F
+java:S3740‘"/Provide the parametrized type for this generic.(àÇ”ş
+1
+java:S36260"Remove this redundant jump.(ûÁİ…
+H
+java:S1172/"3Remove this unused method parameter "conhecimento".(ã°@
+t
+java:S1488a"^Immediately return this expression instead of assigning it to the temporary variable "result".(Ğá®Æ
+V
+java:S2789["@Methods with an "Optional" return type should never return null.(ûÛİõ

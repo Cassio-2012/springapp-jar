@@ -1,0 +1,29 @@
+
+k	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔèØˆüÿÿÿÿ
+<
+java:S1659"&Declare "conteudo" on a separate line.(±Á–ï
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡¦¹Œþÿÿÿÿ
+W	java:S107	"BConstructor has 10 parameters, which is greater than 7 authorized.(¹÷óÒ
+o	java:S100["NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹óÍ¾ùÿÿÿÿ8šòžŠª.
+@
+java:S1659"#Declare "isImg" on a separate line.(ˆã¥“8¥ÎÙŸª.
+9
+java:S1659"#Declare "total" on a separate line.(ˆã¥“
+m	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Ùš8€¯œŠª.
+g	java:S116"RRename this field "id_user" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆã¥“
+h	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔèØˆüÿÿÿÿ
+f	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹÷óÒ
+s	java:S116"WRename this field "img_conteudo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Á–ï8³°šŠª.
+8
+java:S1659""Declare "data" on a separate line.(±Á–ï
+r	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹óÍ¾ùÿÿÿÿ8šòžŠª.
+:
+java:S1659"$Declare "imagem" on a separate line.(±Á–ï
+G
+java:S1659"*Declare "img_conteudo" on a separate line.(±Á–ï8³°šŠª.
+o	java:S100W"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ÉüÞûÿÿÿÿ8šòžŠª.
+:
+java:S1659"$Declare "reacao" on a separate line.(ˆã¥“
+;
+java:S1659"%Declare "id_user" on a separate line.(ˆã¥“

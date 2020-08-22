@@ -1,0 +1,11 @@
+
+~
+java:S1488;"\Immediately return this expression instead of assigning it to the temporary variable "novo".(³Þ²ôþÿÿÿÿ8†¸Ñ¡ª.
+Y
+java:S1128"CRemove this unused import 'org.springframework.stereotype.Service'.(¼º¡Ú
+V
+java:S1126!"AReplace this if-then-else statement by a single return statement.(Ð›á:
+7
+java:S1659"!Declare "all" on a separate line.(ô·»ó
+X
+java:S1751="6Remove this "return" statement or make it conditional.(®¼ßšüÿÿÿÿ8†¸Ñ¡ª.

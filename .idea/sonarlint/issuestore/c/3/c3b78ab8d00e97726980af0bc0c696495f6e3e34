@@ -1,0 +1,12 @@
+
+m	java:S116"YRename this field "descricao_user" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò¿–b
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þ¥å½
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á§þ§þÿÿÿÿ
+<
+java:S1659"'Declare "descricao" on a separate line.(Ò¿–b
+?
+java:S1659"*Declare "conhecimento" on a separate line.(Ò¿–b
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç€É
+9
+java:S1659"$Declare "imagem" on a separate line.(Ò¿–b
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç€É
