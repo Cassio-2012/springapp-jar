@@ -63,6 +63,18 @@ public class UserController {
         return ResponseEntity.ok("Captcha validado com sucesso");
     }
 
+    @PostMapping("/recaptcha/mobile")
+    public ResponseEntity recaptchaValidateAndroid(@RequestBody CaptchaDTO captchaDTO) throws Exception {
+
+        Boolean isValidCaptcha = captchaValidator.validateCaptchaAndroid(captchaDTO.getCaptcha());
+
+        if(!isValidCaptcha){
+            return ResponseEntity.badRequest().body("Captcha não valido");
+        }
+        return ResponseEntity.ok("Captcha validado com sucesso");
+    }
+
+
 
     @GetMapping("/logoff")
     public ResponseEntity logoff() {
