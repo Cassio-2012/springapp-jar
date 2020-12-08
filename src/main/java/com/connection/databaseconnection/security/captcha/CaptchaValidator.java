@@ -14,32 +14,12 @@ public class CaptchaValidator {
     @Value("${google.recaptcha.secret}")
     private String recaptchaSecret;
 
-    @Value("${google.recaptcha.android}")
-    private String recaptchaAndroid;
-
 
     public boolean validateCaptcha(String captchaResponse){
         RestTemplate restTemplate = new RestTemplate();
 
         MultiValueMap<String, String> requestMap = new LinkedMultiValueMap<>();
         requestMap.add("secret", recaptchaSecret);
-        requestMap.add("response", captchaResponse);
-
-        CaptchaResponse apiResponse = restTemplate.postForObject
-                (GOOGLE_RECAPTCHA_ENDPOINT, requestMap, CaptchaResponse.class);
-
-        if(apiResponse == null){
-            return false;
-        }
-
-        return Boolean.TRUE.equals(apiResponse.getSuccess());
-    }
-
-    public boolean validateCaptchaAndroid(String captchaResponse){
-        RestTemplate restTemplate = new RestTemplate();
-
-        MultiValueMap<String, String> requestMap = new LinkedMultiValueMap<>();
-        requestMap.add("secret", recaptchaAndroid);
         requestMap.add("response", captchaResponse);
 
         CaptchaResponse apiResponse = restTemplate.postForObject
